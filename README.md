@@ -19,6 +19,10 @@ I build research-oriented LLM workflows with an emphasis on structured data, rep
 
 ## Featured projects
 
+### [Agent 技术雷达 · Agent Tech Radar](https://X-green-orange.github.io/tech-radar/)
+
+A Chinese-language briefing site tracking recent developments in AI agents, LLMs, and developer tools. It features daily source-linked updates, longer technical articles, and reviewed weekly deep dives.
+
 > Selected repositories and reproducible demos are being prepared.  
 > Private data, model artifacts, credentials, and internal experiment outputs are intentionally excluded.
 
